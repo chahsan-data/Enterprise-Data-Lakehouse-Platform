@@ -2,8 +2,6 @@
 
 
 ## Project Overview
-Atliqon, a well-established parent company, recently acquired SportsBar. While Atliqon’s data systems were mature and well-managed, SportsBar’s data existed in unstructured CSV files with no proper data pipelines.
-
 This project focuses on building a **scalable, unified data platform** using **Databricks and Amazon S3**, enabling Atliqon to efficiently manage, analyze, and generate insights across both companies using a **Lakehouse + Medallion Architecture**.
 
 ---
